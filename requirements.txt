@@ -1,0 +1,11 @@
+openpyxl
+xlsxwriter
+tiktoken
+python-dotenv
+graphdatascience
+altair
+neo4j_tools
+oracledb
+sentence_transformers
+langchain
+langchain_huggingface
